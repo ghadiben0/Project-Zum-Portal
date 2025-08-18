@@ -2,15 +2,22 @@
     position: relative;
 }
 
-.wy-nav-top::after {
+/* Create a clickable logo in top-right */
+.wy-nav-top::before {
     content: "";
     position: absolute;
-    top: 10px;       /* adjust vertical position */
-    right: 10px;     /* adjust horizontal position */
-    width: 32px;     /* logo width */
-    height: 32px;    /* logo height */
-    background-image: url('_static/my_logo.png'); /* path to your logo */
+    top: 10px;      /* vertical position */
+    right: 10px;    /* horizontal position */
+    width: 32px;    /* logo width */
+    height: 32px;   /* logo height */
+    background-image: url('_static/my_logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    cursor: pointer;
+}
+
+/* Optional: make it clickable */
+.wy-nav-top::before {
+    pointer-events: auto;
 }
