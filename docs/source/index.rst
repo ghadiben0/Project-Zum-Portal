@@ -17,9 +17,6 @@ The application covers overall organization management.From **Employee Managemen
    Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.
 
 
-Getting Started
-===============
-
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started
