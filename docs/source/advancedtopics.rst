@@ -6,7 +6,7 @@ Advanced Topics
    :caption: Advanced Topics
    :titlesonly:
 
-   Employeemanagement   
-   Customermanagement   
-   Timesheetmanagement   
-   Projectmanagement   
+   employeemanagement   
+   customermanagement   
+   timesheetmanagement   
+   projectmanagement   
