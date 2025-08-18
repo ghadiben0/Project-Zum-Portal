@@ -31,6 +31,16 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# Remove "View page source"
+html_show_sourcelink = False
+
+html_logo = "_static/mylogo.png"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
+html_static_path = ['_static']
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
