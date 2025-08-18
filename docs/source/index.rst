@@ -22,7 +22,7 @@ Contents
 
 .. toctree::
 
-   what is zumportal 
+   zumportaldefinition
 
    How  Zum-Portal works?
    Does Zum-Portal requires permission to log in?
