@@ -21,7 +21,5 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
 
-   Source/zumportaldefinition
+   zumportaldefinition
