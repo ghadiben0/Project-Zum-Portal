@@ -27,7 +27,7 @@ The application covers overall organization management.From **Employee Managemen
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Advanced Topics
    :titlesonly:
 
