@@ -34,3 +34,9 @@ The application covers overall organization management.From **Employee Managemen
    customermanagement
    timesheetmanagement
    projectmanagement
+
+.. toctree::
+   :hidden:
+   :caption: Hosting Documentation
+
+   usage
