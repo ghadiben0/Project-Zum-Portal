@@ -24,3 +24,14 @@ The application covers overall organization management.From **Employee Managemen
 
    zumportaldefinition
    zumportalusers
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Advanced Topics
+   :titlesonly:
+
+   employeemanagement
+   customermanagement
+   timesheetmanagement
+   projectmanagement
