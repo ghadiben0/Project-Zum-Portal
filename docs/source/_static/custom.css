@@ -1,0 +1,16 @@
+.wy-nav-top {
+    position: relative;
+}
+
+.wy-nav-top::after {
+    content: "";
+    position: absolute;
+    top: 10px;       /* adjust vertical position */
+    right: 10px;     /* adjust horizontal position */
+    width: 32px;     /* logo width */
+    height: 32px;    /* logo height */
+    background-image: url('_static/my_logo.png'); /* path to your logo */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
