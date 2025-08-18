@@ -1,2 +1,2 @@
-Zum Portal Application Functionality
+Zum Portal Application 
 ====================
