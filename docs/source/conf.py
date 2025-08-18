@@ -31,15 +31,14 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = "_static/my_logo.png"
 html_show_sourcelink = False
 
 html_theme_options = {
-    'logo_only': True,
     'display_version': False,
 
 }
 html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
