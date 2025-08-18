@@ -1,22 +1,29 @@
-Welcome to Lumache's documentation!
+Welcome to Zum-Portal documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Zum Portal** (/zum'poːrtəl/) is an online website application works as a Workforce Management System **(WFS)** for  Zum-It Company.
+The application covers overall organization management.
+Checkout the following list:
+
+**Employee Management**
+**Customer Management**
+**Timesheet Management**
+**Projects Managemenet**
+**Resource Allocation**
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Please note that this online documentation is private and cannot exported, copied, or modified in Github wuthout permission.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   What is Zum-Portal?
+   How  Zum-Portal works?
+   Does Zum-Portal requires permission to log in?
