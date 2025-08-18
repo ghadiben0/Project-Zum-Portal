@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Work Force Management'
+copyright = '2025, Zum-IT'
+author = 'Zum-IT'
 
 release = '0.1'
 version = '0.1.0'
