@@ -1,15 +1,9 @@
 Welcome to Zum-Portal documentation!
 ===================================
 
-**Zum Portal** (/zum'poːrtəl/) is an online website application works as a Workforce Management System **(WFS)** for  Zum-It Company.
-The application covers overall organization management.
-Checkout the following list:
+**Zum Portal** (/zum'poːrtəl/) is an online website application works as a Workforce Management System **(WFS)** for  **Zum-It** Company.
 
-**Employee Management**
-**Customer Management**
-**Timesheet Management**
-**Projects Managemenet**
-**Resource Allocation**
+The application covers overall organization management.From **Employee Management**,**Customer Management**,**Timesheet Management**,**Projects Managemenet**, and **Resource Allocation**
 
 
 Check out the :doc:`usage` section for further information, including
@@ -17,7 +11,10 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   Please note that this online documentation is private and cannot exported, copied, or modified in Github wuthout permission.
+   Please note that this online documentation is private and cannot exported, copied, or modified in Github without permission.
+
+   Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.
+
 
 Contents
 --------
