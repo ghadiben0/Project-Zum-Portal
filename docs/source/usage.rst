@@ -1,9 +1,9 @@
-Usage
+Hosting Documentation
 =====
 
-.. _installation:
+.. _documentation version and release:
 
-Installation
+Documentation Verson & Release
 ------------
 
 To use Lumache, first install it using pip:
