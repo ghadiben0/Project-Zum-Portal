@@ -1,6 +1,11 @@
 Welcome to Zum-Portal documentation!
 ===================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
+   :titlesonly:
+
 **Zum Portal** /zum'poːrtəl/ is an online website application works as a Workforce Management System **(WFS)** for  **Zum-It** Company.
 
 The application covers overall organization management.From **Employee Management**, **Customer Management**, **Timesheet Management**, **Projects Managemenet**, and **Resource Allocation**
@@ -18,13 +23,8 @@ Contents
 .. toctree::
 
    what is zumportal 
+
    How  Zum-Portal works?
    Does Zum-Portal requires permission to log in?
 
-Zum Portal documnentation hub
-========================
-
-.. toctree::
-   :caption: Hosting Documentation
-   :maxdepth: 2
 
