@@ -6,3 +6,10 @@ References
    :caption: Reference Sections
 
    usage
+
+
+.. toctree::
+   :hidden:
+   :caption: Hosting Documentation
+
+   usage
