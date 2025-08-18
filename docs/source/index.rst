@@ -23,3 +23,4 @@ The application covers overall organization management.From **Employee Managemen
    :titlesonly:
 
    zumportaldefinition
+   zumportalusers
