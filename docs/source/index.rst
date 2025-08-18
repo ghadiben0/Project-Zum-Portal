@@ -21,9 +21,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
    zumportaldefinition
-
    How  Zum-Portal works?
    Does Zum-Portal requires permission to log in?
 
