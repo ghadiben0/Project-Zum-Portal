@@ -36,7 +36,7 @@ Documentation CopyWrite
 © 2025 [Organizational portal]. All rights reserved.
 
 
-This documentation is provided as part of **Zum Portal** ** app that is intended for internal users only.
+This documentation is provided as part of **Zum Portal** app that is intended for internal users only.
 
 No part of this document may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission except
 
