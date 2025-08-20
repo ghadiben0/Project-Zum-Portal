@@ -20,7 +20,7 @@ The document Release Version is displayed on the header left sidebar of document
 Localization/Intrenationalization
 ----------------
 
-Currently portal Documentation only supports the ** English** language as a first document language.
+Currently portal Documentation only supports the **English** language as a first document language.
 
 Use **Google Translate Open Sidepanel** to have an easy-to-use and read the document information and instructions.
 
