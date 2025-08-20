@@ -24,3 +24,10 @@ document.addEventListener("DOMContentLoaded", function() {
         header.appendChild(logoLink);
     }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const footer = document.querySelector(".wy-footer .rst-footer");
+    if (footer) {
+        footer.innerHTML = "Your Online Documentation hub is your knowledge source to better know application functionality";
+    }
+});
