@@ -25,14 +25,3 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
-function replaceFooterText() {
-    const builtWith = document.querySelector(".wy-footer .rst-footer small");
-    if (builtWith) {
-        builtWith.textContent = "Your Online Documentation hub is your knowledge source to better know application functionality.";
-    } else {
-        // Try again in 100ms if not found yet
-        setTimeout(replaceFooterText, 100);
-    }
-}
-
-replaceFooterText();
