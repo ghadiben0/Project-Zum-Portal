@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Zum Portal Help hub'
-copyright = '2025, Zum-IT, Powered by Ghada Ben Nasser'
+copyright = '2025, Zum-IT'
 author = 'Zum-IT'
 
 release = '0.1'
