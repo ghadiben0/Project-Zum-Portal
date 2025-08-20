@@ -44,9 +44,11 @@ html_js_files = ['custom.js']
 epub_show_urls = 'footnote'
 
 html_theme_options = {
+    "collapse_navigation": True,
+    "sticky_navigation": True,
+    "titles_only": False,
+    "show_relbars": True,
+    "style_external_links": True,
+    "display_version": True,
+    "show_footer": False   # hides default "Built with Sphinx" line
 }
-
-
-
-
-
