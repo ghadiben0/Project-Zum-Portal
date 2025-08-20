@@ -46,27 +46,6 @@ epub_show_urls = 'footnote'
 html_theme_options = {
     "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality"
 }
-html_theme_options = {
-    "canonical_url": "",
-    "analytics_id": "",
-    "logo_only": False,
-    "display_version": True,
-    "prev_next_buttons_location": "bottom",
-    "style_external_links": False,
-    "vcs_pageview_mode": "",
-    "style_nav_header_background": "#2980B9",
-    "collapse_navigation": True,
-    "sticky_navigation": True,
-    "navigation_depth": 4,
-    "includehidden": True,
-    "titles_only": False,
-}
-
-# This is your footer text
-html_context = {
-    "copyright": "Your Online Documentation hub is your knowledge source to better know application functionality"
-}
-
 
 
 
