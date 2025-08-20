@@ -52,3 +52,6 @@ html_theme_options = {
     "display_version": True,
     "show_footer": False   # hides default "Built with Sphinx" line
 }
+html_context = {
+    "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality."
+}
