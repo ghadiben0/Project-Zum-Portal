@@ -44,7 +44,6 @@ html_js_files = ['custom.js']
 epub_show_urls = 'footnote'
 
 html_theme_options = {
-    "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality"
 }
 
 
