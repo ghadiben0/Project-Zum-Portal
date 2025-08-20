@@ -25,9 +25,14 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
-document.addEventListener("DOMContentLoaded", function() {
-    const footer = document.querySelector(".wy-footer .rst-footer");
-    if (footer) {
-        footer.innerHTML = "Your Online Documentation hub is your knowledge source to better know application functionality";
+function replaceFooterText() {
+    const builtWith = document.querySelector(".wy-footer .rst-footer small");
+    if (builtWith) {
+        builtWith.textContent = "Your Online Documentation hub is your knowledge source to better know application functionality.";
+    } else {
+        // Try again in 100ms if not found yet
+        setTimeout(replaceFooterText, 100);
     }
-});
+}
+
+replaceFooterText();
