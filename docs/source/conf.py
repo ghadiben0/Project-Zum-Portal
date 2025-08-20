@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Work Force Management'
+project = 'Zum Portal Help hub'
 copyright = '2025, Zum-IT'
 author = 'Zum-IT'
 
