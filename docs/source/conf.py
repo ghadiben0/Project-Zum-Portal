@@ -55,3 +55,6 @@ html_theme_options = {
 html_context = {
     "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality."
 }
+
+html_css_files = ['custom.css']
+
