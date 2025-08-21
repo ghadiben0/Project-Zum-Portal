@@ -58,3 +58,6 @@ html_context = {
 
 html_css_files = ['custom.css']
 
+templates_path = ['_templates']
+
+
