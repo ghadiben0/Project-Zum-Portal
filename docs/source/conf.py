@@ -4,8 +4,7 @@
 
 project = 'Zum Portal Help hubs'
 copyright = '2025, Zum-IT'
-author = 'Zum-IT'
-'Documentation is your source knowledge for quick portal understanding and integrity'.
+author = 'Zum-IT, Documentation is your source knowledge for quick portal understanding and integrity'.
 
 release = '0.1'
 version = '0.1.0'
