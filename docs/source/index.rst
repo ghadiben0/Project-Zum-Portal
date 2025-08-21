@@ -14,7 +14,7 @@ The application covers overall organization management.From **Employee Managemen
 
    Please note that this online documentation is confidential and proprietary information of **Zum-It**. It cannot be exported, copied, or modified in Github without permission.
 
-   Check out the :doc:`usage` section for further information on how to use, read, and review documentation copywrite.
+   Check out the :doc:`usage` section for further information on how to use, read, and review documentation copywrite ⚖️.
 
 .. toctree::
    :maxdepth: 2
