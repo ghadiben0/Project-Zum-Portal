@@ -2,22 +2,23 @@ Zum Portal Users
 ===================================
 This section  explains how **Zum Portal** works based on users **Roles**
 
-Admin 
+⏩️ Admin 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Resource Manager **'R.M'**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Talent Manager **'T.M'**
+⏩️ Resource Manager **'R.M'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Project Manager**'P.M'**
+⏩️ Talent Manager **'T.M'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Academy Manager **'A.M'**
+⏩️ Project Manager**'P.M'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Scrum Master **'S.M'**  
+⏩️ Academy Manager **'A.M'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Normal Users **'N.U'**
+⏩️ Scrum Master **'S.M'**  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+⏩️ Normal Users **'N.U'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
