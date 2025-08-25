@@ -9,3 +9,17 @@ Use **Timesheet** to book hours against your assigned to **Projects**
 
 Fields Definition
 -------------------
+
+|**Entry Date:**
+    Use entry date to specify your current working date when booking timesheet.
+
+|**Location:**
+    Use location to specify your current working place when booking timesheet. 
+
+|**Site:**
+    Use site to specify your current site code when booking timesheet.
+
+|**Billable Hours:**
+    Use billable hours to specify the spent working hours when booking timesheet.
+
+|**Not Billable Hours:**
