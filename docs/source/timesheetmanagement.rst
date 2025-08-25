@@ -7,10 +7,7 @@ Use **Timesheet** to book hours against your assigned to **Projects**
     
    You can raise **Project Allocation** **Request** from a **Resource Manager** **Role** in case you are not yet assigned to a **Project**. Only then you can book your hours.
 
-Fields Definition
-----------------------------
-
 .. raw:: html
 
-   <h2 style="color:blue;">Fields Definition</h2>
+   <h2 class="blue-subtitle">Fields Definition</h2>
 
