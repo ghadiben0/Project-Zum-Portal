@@ -19,6 +19,6 @@ How **Zum Portal** works?
 
 Each new hires or experienced users have the access to log into the portal using credentials. Each Credential has a unique identification that should not be shared with other **Employees**.
 
-Based on the Organization chart and Role & Permission, each **Employee** is defined in the portal based on his/her "Role".
+Based on the Organization chart and :doc:`Role & Permission <zumportalusers>`, each **Employee** is defined in the portal based on his/her "Role".
 
 Roles defintion is important as it provides authorization to access the portal based on certain views: Full Access, View Only, Limited Access.
