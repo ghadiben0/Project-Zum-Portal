@@ -26,3 +26,7 @@ footr a {
 .btn .btn-neutral float-right{
       font-size: 14px;  /* restore copyright */
 }
+
+h2.blue-subtitle {
+    color: blue;
+}
