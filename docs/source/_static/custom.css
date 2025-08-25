@@ -27,6 +27,7 @@ footr a {
       font-size: 14px;  /* restore copyright */
 }
 
-h2.blue-subtitle {
-    color: blue;
+/* Make all level-2 headings (underlined with ---- in RST) blue */
+h2 {
+    color: blue !important;
 }
