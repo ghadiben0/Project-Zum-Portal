@@ -1,7 +1,9 @@
 Zum Portal Users
 ===================================
 Accessing Zum Portal application requires **Credentials and **Role** defined by you **Talent Manager** .
+
 Each **Role** has **Permission** and **Access** accross all available modules.
+
 Below is the listed **Role** per **Module Name**.
 
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
