@@ -25,17 +25,17 @@ Below is the listed **Role** per **Module Name**.
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Role Name         | Module Name  | Permission                                  | Access                                   |
 +===================+==============+=============================================+==========================================+
-| Admin             | Projects     | Create, Read, Update, Delete, Export        | Full Access                               |
+| Admin             | Projects     | Create, Read, Update, Delete, Export        | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Resource Manager  | Projects     | Create, Read, Update, Delete, Export        | Full Access                               |
+| Resource Manager  | Projects     | Create, Read, Update, Delete, Export        | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Normal Users      | Projects     | Read                                        | View Only                                 |
+| Normal Users      | Projects     | Read                                        | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Academy Manager   | Projects     | No Permission                               | No Access                                 |
+| Academy Manager   | Projects     | No Permission                               | No Access                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Project Manager   | Projects     | Read                                        | View Only                                 |
+| Project Manager   | Projects     | Read                                        | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Scrum Master      | Projects     | Read                                        | View Only                                 |
+| Scrum Master      | Projects     | Read                                        | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Talent Manager    | Projects     | No Permission                               | No Access                                 |
+| Talent Manager    | Projects     | No Permission                               | No Access                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
