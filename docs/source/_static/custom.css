@@ -71,9 +71,29 @@ table.docutils th {
   word-wrap: break-word;
 }
 
-/* Make all 4-column docutils tables share exact widths */
-table.docutils colgroup col:nth-child(1) { width: 20%; }
-table.docutils colgroup col:nth-child(2) { width: 15%; }
-table.docutils colgroup col:nth-child(3) { width: 45%; }
-table.docutils colgroup col:nth-child(4) { width: 20%; }
+/* Force all 4-column Sphinx tables to have the same widths */
+table.docutils {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
 
+table.docutils th:nth-child(1),
+table.docutils td:nth-child(1) {
+  width: 25%; /* Role Name */
+}
+
+table.docutils th:nth-child(2),
+table.docutils td:nth-child(2) {
+  width: 15%; /* Module Name */
+}
+
+table.docutils th:nth-child(3),
+table.docutils td:nth-child(3) {
+  width: 40%; /* Permission */
+}
+
+table.docutils th:nth-child(4),
+table.docutils td:nth-child(4) {
+  width: 20%; /* Access */
+}
