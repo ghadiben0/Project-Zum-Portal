@@ -70,3 +70,10 @@ table.docutils td,
 table.docutils th {
   word-wrap: break-word;
 }
+
+/* Make all 4-column docutils tables share exact widths */
+table.docutils colgroup col:nth-child(1) { width: 20%; }
+table.docutils colgroup col:nth-child(2) { width: 15%; }
+table.docutils colgroup col:nth-child(3) { width: 45%; }
+table.docutils colgroup col:nth-child(4) { width: 20%; }
+
