@@ -39,8 +39,12 @@ footr a {
     font-weight: 600; /* semi-bold for distinction */
 }
 
-/* Allow word wrapping in table cells to prevent horizontal scroll */
-.wy-table-responsive table td,
-.wy-table-responsive table th {
-    white-space: normal !important;
+/* Disable responsive wrapper scroll bar and allow full table rendering */
+.wy-table-responsive {
+    overflow: visible !important;
+}
+
+.wy-table-responsive table {
+    display: table;
+    width: 100% !important;
 }
