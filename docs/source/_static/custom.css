@@ -23,6 +23,12 @@ footr a {
       font-size: 14px;  /* restore copyright */
 }
 
+/* Allow word wrapping in table cells to prevent horizontal scroll */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+    white-space: normal !important;
+}
+
 .btn .btn-neutral float-right{
       font-size: 14px;  /* restore copyright */
 }
