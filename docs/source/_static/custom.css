@@ -59,3 +59,14 @@ footr a {
   word-break: break-word;
 }
 
+/* Force fixed-width tables in Sphinx/HTML output */
+table.docutils {
+  table-layout: fixed;
+  width: 100%;
+}
+
+/* Allow long words to break and wrap inside cells */
+table.docutils td, 
+table.docutils th {
+  word-wrap: break-word;
+}
