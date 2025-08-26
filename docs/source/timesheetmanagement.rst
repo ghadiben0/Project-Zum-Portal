@@ -43,3 +43,9 @@ Fields Definition
 .. note::
     
    Use below table to review the spent working hours in total. 
+
+.. image:: _static/images/my_picture.png
+   :alt: My Picture
+   :align: center
+   :width: 300px
+
