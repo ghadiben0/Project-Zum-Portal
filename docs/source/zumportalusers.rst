@@ -2,8 +2,13 @@ Zum Portal Users
 ===================================
 This section  explains how **Zum Portal** works based on users **Roles**
 
-⏩️ Admin 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Role Name             Permission                             Access
+==========            ===================                    ============
+Admin                 Read, Write, Update, and  Delete       Full Access 
+Project Manager       Read, Write                            Limited   Access
+Viewer                Read                                   View Only
+
 
 ⏩️ Resource Manager **'R.M'**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
