@@ -1,6 +1,8 @@
 Zum Portal Users
 ===================================
-This section  explains how **Zum Portal** works based on users **Roles**
+Accessing Zum Portal application requires **Credentials and **Role** defined by you **Talent Manager** .
+Each **Role** has **Permission** and **Access** accross all available modules.
+Below is the listed **Role** per **Module Name**.
 
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Role Name         | Module Name  | Permission                                  | Access                                   |
@@ -18,4 +20,22 @@ This section  explains how **Zum Portal** works based on users **Roles**
 | Scrum Master      | Timesheet    | Read, Export                                | View Only with Export CTA                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Normal Users      | Timesheet    | Create, Update, Delete, Export              | Full Access                              |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Role Name         | Module Name  | Permission                                  | Access                                   |
++===================+==============+=============================================+==========================================+
+| Admin             | Projects     | Create, Read, Update, Delete, Export        | Full Access                               |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Resource Manager  | Projects     | Create, Read, Update, Delete, Export        | Full Access                               |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Normal Users      | Projects     | Read                                        | View Only                                 |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Academy Manager   | Projects     | No Permission                               | No Access                                 |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Project Manager   | Projects     | Read                                        | View Only                                 |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Scrum Master      | Projects     | Read                                        | View Only                                 |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Talent Manager    | Projects     | No Permission                               | No Access                                 |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
