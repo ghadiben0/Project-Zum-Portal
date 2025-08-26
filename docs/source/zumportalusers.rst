@@ -13,15 +13,15 @@ Employee Role, Permission and Acces in TimeSheet:
 +===================+==============+=============================================+==========================================+
 | Admin             | Timesheet    | Create, Read, Update, Delete, Export        | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Talent Manager    | Timesheet    | Read, Export                                | View Only                               |
+| Talent Manager    | Timesheet    | Read, Export                                | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Resource Manager  | Timesheet    | Read, Export                                | View Only                               |
+| Resource Manager  | Timesheet    | Read, Export                                | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Academy Manager   | Timesheet    | Read, Export                                | View Only                               |
+| Academy Manager   | Timesheet    | Read, Export                                | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Project Manager   | Timesheet    | Read, Export                                | View Only                               |
+| Project Manager   | Timesheet    | Read, Export                                | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Scrum Master      | Timesheet    | Read, Export                                | View Only                               |
+| Scrum Master      | Timesheet    | Read, Export                                | View Only                                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Normal Users      | Timesheet    | Create, Update, Delete, Export              | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
