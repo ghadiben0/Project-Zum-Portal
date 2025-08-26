@@ -39,12 +39,23 @@ footr a {
     font-weight: 600; /* semi-bold for distinction */
 }
 
-/* Only target tables inside reStructuredText content */
-.rst-content .wy-table-responsive {
-    overflow: visible !important;
+/* Completely disable scroll and responsiveness from sphinx_rtd_theme table wrapper */
+.wy-table-responsive {
+  overflow-x: visible !important;
+  overflow: visible !important;
 }
 
-.rst-content .wy-table-responsive table {
-    display: table;
-    width: 100% !important;
+/* Prevent forced table block behavior */
+.wy-table-responsive table {
+  display: table !important;
+  width: 100% !important;
+  table-layout: auto !important;
 }
+
+/* Optional: Wrap text in table cells */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+  white-space: normal !important;
+  word-break: break-word;
+}
+
