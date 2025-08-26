@@ -85,7 +85,7 @@ table.docutils td:nth-child(1) {
 
 table.docutils th:nth-child(2),
 table.docutils td:nth-child(2) {
-  width: 25%; /* Module Name */
+  width: 30%; /* Module Name */
 }
 
 table.docutils th:nth-child(3),
