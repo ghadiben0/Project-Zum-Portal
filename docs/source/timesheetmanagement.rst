@@ -22,4 +22,10 @@ Fields Definition
 |**Billable Hours:**
     Use billable hours to specify the spent working hours when booking timesheet.
 
+.. note::
+    
+   You can raise **Project Allocation** **Request** from a **Resource Manager** **Role** in case you are not yet assigned to a **Project**. Only then you can book your hours.
+
+
 |**Not Billable Hours:**
+     Use billable hours to specify the spent non-working hours when booking timesheet.
