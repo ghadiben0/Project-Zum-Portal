@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Zum Portal Help hubs'
+project = 'Zum Portal Help hub'
 copyright = '2025, Zum-IT'
 author = 'Zum-IT, Documentation library'
 
