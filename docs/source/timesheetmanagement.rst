@@ -24,21 +24,21 @@ Fields Definition
 
 .. code-block:: console
 
-   Please take into consideration that billable hours is your actual allocation time to a **Project**.
+   Please take into consideration that billable hours is your actual allocation time to a **Project** .
 
 |**Not Billable Hours:**
      Use billable hours to specify the spent non-working hours when booking timesheet.
 
 .. code-block:: console
 
-   Please take into consideration that not billable hours is your non allocation time to a **Project**.
+   Please take into consideration that not billable hours is your non allocation time to a **Project** .
 
 |**Task Description:**
      Use task description to specify the task you wokred on during the allocation time.
 
 .. note::
     
-   Use Export CTA to download your **Timesheet** in an Excel file
+   Use **Export** CTA to download your **Timesheet** in an Excel file
 
 .. note::
     
