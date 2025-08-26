@@ -39,12 +39,12 @@ footr a {
     font-weight: 600; /* semi-bold for distinction */
 }
 
-/* Disable responsive wrapper scroll bar and allow full table rendering */
-.wy-table-responsive {
+/* Only target tables inside reStructuredText content */
+.rst-content .wy-table-responsive {
     overflow: visible !important;
 }
 
-.wy-table-responsive table {
+.rst-content .wy-table-responsive table {
     display: table;
     width: 100% !important;
 }
