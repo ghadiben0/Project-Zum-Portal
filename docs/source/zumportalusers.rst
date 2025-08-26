@@ -6,7 +6,25 @@ Each **Role** has **Permission** and **Access** accross all available modules.
 
 Below is the listed **Role** per **Module Name**.
 
-Employee Role, Permission and Acces in TimeSheet:
+Employee Role, Permission and Acces in **Customers**:
+
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Role Name         | Module Name  | Permission                                  | Access                                   |
++===================+==============+=============================================+==========================================+
+| Admin             | Customers    | Create, Read, Update, Delete                 | Full Access                             |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Talent Manager    | Customers    | Read                                        | View Only                                |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Resource Manager  | Customers    | Read, Update                                | Limited Access                           |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Project Manager   | Customers    | Read                                        | View Only                                |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Scrum Master      | Customers    | No Permission                               | No Access                                |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+| Normal Users      | Customers    | No Permission                               | No Access                                |
++-------------------+--------------+---------------------------------------------+------------------------------------------+
+
+Employee Role, Permission and Acces in **Timesheet**:
 
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Role Name         | Module Name  | Permission                                  | Access                                   |
@@ -26,7 +44,7 @@ Employee Role, Permission and Acces in TimeSheet:
 | Normal Users      | Timesheet    | Create, Update, Delete, Export              | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 
-Employee Role, Permission and Acces in Projects:
+Employee Role, Permission and Acces in **Projects**:
 
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Role Name         | Module Name  | Permission                                  | Access                                   |
