@@ -5,7 +5,7 @@ This section  explains how **Zum Portal** works based on users **Roles**
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Role Name         | Module Name  | Permission                                  | Access                                   |
 +===================+==============+=============================================+==========================================+
-| Admin             | Timesheet    | Create, Read, Update, Delete, Export        | Full Access                               |
+| Admin             | Timesheet    | Create, Read, Update, Delete, Export        | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Talent Manager    | Timesheet    | Read, Export                                | View Only with Export CTA                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
@@ -17,5 +17,5 @@ This section  explains how **Zum Portal** works based on users **Roles**
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
 | Scrum Master      | Timesheet    | Read, Export                                | View Only with Export CTA                |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
-| Normal Users      | Timesheet    | Create, Update, Delete, Export              | Full Access                               |
+| Normal Users      | Timesheet    | Create, Update, Delete, Export              | Full Access                              |
 +-------------------+--------------+---------------------------------------------+------------------------------------------+
