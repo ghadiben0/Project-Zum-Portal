@@ -27,7 +27,8 @@ footr a {
       font-size: 14px;  /* restore copyright */
 }
 
-/* Make all level-2 headings (underlined with ---- in RST) blue */
-h2 {
-    color: blue !important;
+/* Apply to section subtitles in RST */
+.rst-content h2 {
+    color: #333333; /* dark gray professional subtitle */
+    font-weight: 600; /* semi-bold for distinction */
 }
