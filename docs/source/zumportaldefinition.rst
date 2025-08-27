@@ -21,13 +21,5 @@ Each new hires or experienced users have the access to log into the portal using
 
 Based on the Organization chart and :tooltip:`Role & Permission|zumportalusers.rst`, each **Employee** is defined in the portal based on his/her "Role". 
 
-
 Roles defintion is important as it provides authorization to access the portal based on certain views: Full Access, View Only, Limited Access.
 
-Based on the Organization chart and 
-.. raw:: html
-
-   <span class="tooltip">Role & Permission
-     <span class="tooltiptext">zumportalusers</span>
-   </span>
-, each **Employee** is defined in the portal based on his/her "Role".
