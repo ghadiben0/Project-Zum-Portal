@@ -44,7 +44,7 @@ Fields Definition
     
    Use below table to review the spent working hours in total. 
 
-.. figure:: _static/image/Outlined content timesheet.png
+.. figure:: _static/image/contenttimesheet.png
    :align: left
 
    Timesheet interface
