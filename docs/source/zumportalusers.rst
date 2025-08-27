@@ -7,7 +7,6 @@ Each **Role** has **Permission** and **Access** accross all available modules.
 
 Below is the listed **Role** per **Module Name**.
 
-.. tabularcolumns:: |p{4cm}|p{3cm}|p{8cm}|p{3cm}|
 
 Employee Role, Permission and Acces in **Customers**:
 
