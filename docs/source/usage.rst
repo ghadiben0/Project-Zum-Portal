@@ -33,16 +33,14 @@ To request document multilanguage, in case Chrome extension Google Translate is 
 Documentation CopyWrite
 ----------------
 
-© 2025 [Organizational portal]. All rights reserved.
+© 2025 [Zum Portal]. All rights reserved.
 
 
-This documentation is provided as part of **Zum Portal** app that is intended for internal users only.
+The documentation provided is part of **Zum-IT** company and only intended for internal usage only.
 
-No part of this document may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission except
-
-in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+No part of this document may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
 
 Acknowledgment
 ------------------------
 
-The portal incl. documentation were developed with the contribution of internal teams, partners, and integration specialists.
+The portal functionality incl. documentation were developed with the contribution of internal teams, partners, and integration specialists.
