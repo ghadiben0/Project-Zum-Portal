@@ -90,7 +90,7 @@ table.docutils td:nth-child(2) {
 
 table.docutils th:nth-child(3),
 table.docutils td:nth-child(3) {
-  width: 37%; /* Permission */
+  width: 31%; /* Permission */
 }
 
 table.docutils th:nth-child(4),
