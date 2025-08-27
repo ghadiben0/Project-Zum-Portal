@@ -10,7 +10,7 @@ What is **Zum Portal**?
 
 **Zum Portal** is a web application. It structures organizational data, streamlines managerial  decisions. It supports **Customer** and **Employee** data management, portfolio growth strategies and plans making.
 
-Beyond managing organizational data, **Zum Portal** acts as a central tool for all **Zum-IT** employees, offering an easy-to-use interfaces with high utility. Helping the organization operate efficiently under a unified vision.
+Beyond managing organizational data, **Zum Portal** acts as a central tool for all `zum-it <https://zum-it.com>`__ employees offering an easy-to-use interfaces with high utility. Helping the organization operate efficiently under a unified vision.
 
 How **Zum Portal** works?
 ------------------
