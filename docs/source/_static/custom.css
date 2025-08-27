@@ -97,3 +97,39 @@ table.docutils th:nth-child(4),
 table.docutils td:nth-child(4) {
   width: 25%; /* Access */
 }
+
+/* Tooltip container */
+.tooltip {
+  position: relative;       /* Position relative to parent */
+  cursor: pointer;          /* Pointer cursor on hover */
+  border-bottom: 1px dotted #555; /* Optional underline */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;       /* Hidden by default */
+  width: 200px;             /* Tooltip box width */
+  background-color: #333;   /* Dark background */
+  color: #fff;              /* White text */
+  text-align: center;       /* Center text */
+  padding: 6px;             /* Spacing */
+  border-radius: 6px;       /* Rounded corners */
+  position: absolute;       /* Position relative to tooltip container */
+  z-index: 1;               /* On top of other content */
+  bottom: 125%;             /* Show above the word */
+  left: 50%;                /* Center horizontally */
+  transform: translateX(-50%);
+  opacity: 0;               /* Invisible initially */
+  transition: opacity 0.3s; /* Smooth fade in */
+}
+
+/* Show tooltip on hover */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+
