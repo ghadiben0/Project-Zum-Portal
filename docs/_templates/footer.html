@@ -25,3 +25,11 @@
     </div>
   {% endif %}
 </footer>
+
+{# Custom footerfor need help #}
+{% extends "!layout.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% include "_static/help_footer.html" %}
+{% endblock %}
