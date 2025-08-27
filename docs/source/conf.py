@@ -61,3 +61,14 @@ html_css_files = ['custom.css']
 templates_path = ['_templates']
 
 
+# -- Extensions ---------------------------------------------------
+extensions = [
+    # existing extensions...
+    'hoverxref.extension',  # 👈 Add this line
+]
+
+# -- Hoverxref Configuration --------------------------------------
+hoverxref_roles = ['ref', 'doc']  # or add more as needed
+hoverxref_auto_ref = True         # optional: makes regular :ref:`...` hoverable
+
+
