@@ -56,6 +56,9 @@ html_context = {
     "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality."
 }
 
+# Add custom tooltip role for hover popups in .rst files
+extensions.append('_ext.tooltip_role')
+
 html_css_files = ['custom.css']
 
 templates_path = ['_templates']
