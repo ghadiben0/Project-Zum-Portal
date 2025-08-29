@@ -23,7 +23,8 @@ Each new hires or experienced users have the access to log into the portal using
 
 .. code-block:: console
 
-   As part of the onboarding process, each Role is assigned a valid credential in the form of an auto-generated password. This password is temporary and must be used within 24 hours of issuance. Othrwise it expires.
+   As part of the onboarding process, each Role is assigned a valid credential in the form of an auto-generated password. This password is temporary and must be used within 24 hours of issuance. Otherwise it expires. 
+   This requires requesting from you **Administrator** to use **Resend Email** funtionality to be able to register and access your application.
 
 .. note::
     
