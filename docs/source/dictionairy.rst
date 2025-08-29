@@ -13,7 +13,7 @@ Ressource Manager has Limited Access to **Zum Portal**
 
 *Follow Resources assignments and tasks fulfillments.
 
-.. _Resource-Manager:
+.. _Talent-Manager:
 
 Ressource Manager 
 ------------------
