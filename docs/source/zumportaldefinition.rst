@@ -27,7 +27,7 @@ Each new hires or experienced users have the access to log into the portal using
 
 .. note::
     
-  See Onboarding Process documentation.
+  See :ref:`Onboarding Process <onboarding-process>`documentation.
 
 Based on the Organization chart and :ref:`Role & Permission <zum-portal-users>`, each **Employee** is defined in the portal based on his/her "Role". 
 
