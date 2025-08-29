@@ -1,27 +1,12 @@
-Dictionairy- Definition
+.. _abbreviations:
 
-.. _Resource-Manager:
+Abbreviations
+=============
 
-Ressource Manager 
-------------------
+.. glossary::
 
-Ressource Manager has Limited Access to **Zum Portal**
+   API
+      Application Programming Interface.
 
-*Registers Customer and Project Data. 
-
-*Assign experienced users to **Projects** based on **Roles**
-
-*Follow Resources assignments and tasks fulfillments.
-
-.. _Talent-Manager:
-
-Talent Manager 
-------------------
-
-Ressource Manager has Limited Access to **Zum Portal**
-
-*Registers Customer and Project Data. 
-
-*Assign experienced users to **Projects** based on **Roles**
-
-*Follow Resources assignments and tasks fulfillments.
+   ERP
+      Enterprise Resource Planning.
