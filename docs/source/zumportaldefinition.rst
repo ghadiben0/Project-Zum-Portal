@@ -3,7 +3,7 @@ Zum Portal Application
 
 Welcome aboard to our online documentation!
 
-Here, we’ll explore what `Zum Portal <https://zumportal.com>` is and how it supports `zum-it <https://zum-it.com>`__ organization.
+Here, we’ll explore what `Zum Portal <https://zumportal.com>`__ is and how it supports `zum-it <https://zum-it.com>`__ organization.
 
 What is **Zum Portal**?
 ------------------
