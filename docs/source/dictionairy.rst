@@ -15,7 +15,7 @@ Ressource Manager has Limited Access to **Zum Portal**
 
 .. _Talent-Manager:
 
-Ressource Manager 
+Talent Manager 
 ------------------
 
 Ressource Manager has Limited Access to **Zum Portal**
