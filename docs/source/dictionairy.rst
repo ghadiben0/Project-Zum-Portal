@@ -3,10 +3,6 @@
 Abbreviations
 =============
 
-.. glossary::
+.. |API| replace:: :abbr:`API (Application Programming Interface)`
 
-   API
-      Application Programming Interface.
-
-   ERP
-      Enterprise Resource Planning.
+.. |ERP| replace:: :abbr:`ERP (Enterprise Resource Planning)`
