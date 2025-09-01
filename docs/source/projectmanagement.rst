@@ -9,10 +9,9 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. note::
     
-   Please note that **Project** list is added by **Resource Manager** and **Admin** roles.
+   Please note that **Project** list is added/edited only by  the **Resource Manager** and **Admin** **Roles**
 
-   **Scrum Master, Project Manager, Academy Manager,Resource Manager, and Admin can be assigned to a **Project** .
-
+   **Project Team memebrs udner **Normal User** **Role** can Add, Edit, and Export their **Timesheet** .
 
 Fields Definition
 -------------------
