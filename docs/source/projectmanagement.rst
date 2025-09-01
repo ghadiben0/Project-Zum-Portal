@@ -5,48 +5,82 @@ Use **Projects** to register and assign Projects to **Employees** .
 
 .. code-block:: console
 
-   Please take into consideration that Each Employee has predefined **Role** and **Permission** with limited/unlimited CRUD actions to perform on **Projects** data. 
+   Please take into consideration that Each **Employee** has a predefined **Role** and **Permission** with limited/unlimited **CRUD** actions to perform on **Projects** data. 
+
+.. note::
+    
+   Please note that **Project** list is added by **Resource Manager** and **Admin** roles.
+
+   **Scrum Master, Project Manager, Academy Manager,Resource Manager, and Admin can be assigned to a **Project** .
+
 
 Fields Definition
 -------------------
 
 |**Project Name:**
 
-   The field provides a clear project title.
+  The project name.
 
 |**Project Code:**
-    The field provides a short project code linked to **Project Name**.
+    The project short code linked to the **Project Name**.
 
 |**Project Manager:**
-    The field provides assigned user to **Project** based on **Role**
+    The assigned **Employee** to the **Project** based on his/her defined**Role** .
 
 .. code-block:: console
 
-   Please take into consideration that any **Employee** can be assigned as a **Project Manager**
+   Please take into consideration that, regardless of **Employee Role** , any **Employee** can be assigned to a **Project** as a **Project Manager**
+
+
+|**Customer Name:**
+     The assigned **Customer** to the **Project**.
 
 .. code-block:: console
 
-   Please take into consideration that billable hours is your actual allocation time to a **Project** .
+   Please take into consideration that **Customer** can be linked to multiple **Projects** .
 
-|**Not Billable Hours:**
-     Use billable hours to specify the spent non-working hours when booking timesheet.
+|**Project Team:**
+     The assigned **Employee** to the **Project** .
+
+|**Scrum Master:**
+     The assigned **Employee** to the **Project** .
 
 .. code-block:: console
 
-   Please take into consideration that not billable hours is your non allocation time to a **Project** .
+   Please take into consideration that, regardless of **Employee Role** , any **Employee** can be assigned to a **Project** as a **Project Manager**
 
-|**Task Description:**
-     Use task description to specify the task you wokred on during the allocation time.
+
+|**Project Start Date:**
+     The start date of the **Project** . 
 
 .. note::
     
-   Use **Export** CTA to download your **Timesheet** in an Excel file
+   Please note that you cannot book your **Timesheet** ,regardless of the **Role**, before the start date of the **Project** .
+
+|**Project End Date:**
+     The end date of the **Project** . 
 
 .. note::
     
-   Use below table to review the spent working hours in total. 
+   Please note that you cannot book your **Timesheet** ,regardless of the **Role**, after the end date of the **Project**.
 
-.. figure:: _static/image/contenttimesheet.png
-   :align: left
+|**Project Description:**
+     Project full name or full descriptios.
 
-   Timesheet interface
+|**Files:**
+     The files attached to the **Project** . 
+
+|**Status:**
+      |Active:
+      A **Project** under status **Active** is an actual **Project**
+      |Inactive
+      A **Project** under status **Inactive** is an archived **Project**
+
+
+
+
+
+
+
+
+
