@@ -79,10 +79,15 @@ Fields Definition
       A **Project** under status **Inactive** is an archived **Project**
 
 
+.. figure:: _static/image/gridviewproject.png
+   :align: left
 
+   Grid View_Projects interface
 
+.. figure:: _static/image/listviewproject.png
+   :align: left
 
-
+   List View_Projects interface
 
 
 
