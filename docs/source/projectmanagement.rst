@@ -84,7 +84,7 @@ Fields Definition
 
    Grid View_Projects interface
 
-.. figure:: _static/image/listviewproject.png
+.. figure:: _static/image/listviewprojects.png
    :align: left
 
    List View_Projects interface
