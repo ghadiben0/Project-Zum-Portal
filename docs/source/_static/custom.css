@@ -129,21 +129,14 @@ table.docutils td:nth-child(4) {
   opacity: 1;
 }
 
-/* Make all videos scale with their container and stay centered */
-
-video {
-    max-width: 100%;   /* never wider than the container */
-    height: auto;      /* maintain aspect ratio */
-    display: block;
-    margin: 0 auto;    /* center video */
+/* Tutorial Videos Section: Responsive and properly spaced */
+.tutorial-videos video {
+    max-width: 100%;       /* scale video to container width */
+    height: auto;          /* maintain original aspect ratio */
+    display: block;        /* allows margin auto to center video */
+    margin: 0 auto 20px;   /* add space below to prevent overlap with buttons */
+    clear: both;           /* ensures video sits below floated elements */
 }
-
-.rst-content {
-    box-sizing: border-box;  /* make sure content respects container */
-    padding: 0 15px;         /* optional: add side padding */
-}
-
-
 
 
 
