@@ -72,3 +72,8 @@ hoverxref_roles = ['ref', 'doc']  # or add more as needed
 hoverxref_auto_ref = True         # optional: makes regular :ref:`...` hoverable
 
 
+# -- Extensionforvideos ---------------------------------------------------
+extensions = [
+    "sphinxcontrib.video",
+]
+
