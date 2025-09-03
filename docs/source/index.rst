@@ -37,7 +37,7 @@ The application covers overall organization management.From **Employee Managemen
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hosting Documentation
+   :caption: Documentation Release
 
    usage
 
