@@ -12,11 +12,16 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+    # Built-in Sphinx extensions
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+
+    # Third-party extensions
+    'hoverxref.extension',        # Hoverxref for hover tooltips
+    'sphinxcontrib.video',       # Video embedding
 ]
 
 intersphinx_mapping = {
@@ -30,18 +35,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-
 html_show_sourcelink = False
-
-html_theme_options = {
-    'display_version': False,
-
-}
-html_static_path = ['_static']
-html_js_files = ['custom.js']
-
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
 
 html_theme_options = {
     "collapse_navigation": True,
@@ -52,28 +46,18 @@ html_theme_options = {
     "display_version": True,
     "show_footer": False   # hides default "Built with Sphinx" line
 }
+
 html_context = {
     "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality."
 }
 
+html_static_path = ['_static']
+html_js_files = ['custom.js']
 html_css_files = ['custom.css']
 
-templates_path = ['_templates']
-
-
-# -- Extensions ---------------------------------------------------
-extensions = [
-    # existing extensions...
-    'hoverxref.extension',  # 👈 Add this line
-]
-
-# -- Hoverxref Configuration --------------------------------------
+# -- Hoverxref Configuration
 hoverxref_roles = ['ref', 'doc']  # or add more as needed
 hoverxref_auto_ref = True         # optional: makes regular :ref:`...` hoverable
 
-
-# -- Extensionforvideos ---------------------------------------------------
-extensions = [
-    "sphinxcontrib.video",
-]
-
+# -- Options for EPUB output
+epub_show_urls = 'footnote'
