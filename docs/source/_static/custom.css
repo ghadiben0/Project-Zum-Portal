@@ -129,6 +129,20 @@ table.docutils td:nth-child(4) {
   opacity: 1;
 }
 
+/* Make all videos scale with their container and stay centered */
+
+video {
+    max-width: 100%;   /* never wider than the container */
+    height: auto;      /* maintain aspect ratio */
+    display: block;
+    margin: 0 auto;    /* center video */
+}
+
+.rst-content {
+    box-sizing: border-box;  /* make sure content respects container */
+    padding: 0 15px;         /* optional: add side padding */
+}
+
 
 
 
