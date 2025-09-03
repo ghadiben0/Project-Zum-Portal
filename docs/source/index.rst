@@ -36,7 +36,8 @@ The application covers overall organization management.From **Employee Managemen
    projectmanagement
 
 .. toctree::
-   :hidden:
+   :maxdepth: 2
    :caption: Hosting Documentation
 
    usage
+
