@@ -5,13 +5,13 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. code-block:: console
 
-   Please take into consideration that Each Employee has a predefined ***Role*** and Permission with limited/unlimited CRUD actions to perform on Projects data. 
+   Please take into consideration that Each Employee has a predefined Role and Permission with limited/unlimited CRUD actions to perform on Projects data. 
 
 .. note::
     
    The listed Projects data is added/edited by ***Resource Manager*** and Admin Roles.
 
-   **Project Team memebers udner the Role of a Normal User has permission to Add, Edit, and Export Timesheet data .
+   Project Team memeber udner the Role of a Normal User has permission to Add, Edit, and Export Timesheet data .
 
 Fields Definition
 -------------------
