@@ -167,17 +167,14 @@ div[data-ea-publisher] {
     padding: 0 !important;
 }
 
-/* Hide ONLY the black RTD flyout (bottom-right) */
-div.rst-versions[role="note"][aria-label="versions"] {
+/* Hide ONLY the black Read the Docs flyout (bottom corner) */ div.rst-versions[role="note"][aria-label="versions"],.rst-versions.rst-badge {
   display: none !important;
 }
- 
-/* Keep the version under the logo/title visible */
-.wy-side-nav-search .version {
+/* Hide the footer attribution line (e.g., “Addons documentation — Hosted by Read the Docs”) */ .wy-footer [role="contentinfo"] {
+  display: none !important;
+}
+/* Keep the sidebar version (under the title/logo) visible */ .wy-side-nav-search .version {
   display: block !important;
-}
- 
-/* Hide the footer attribution “...Hosted by Read the Docs” */
-.wy-footer div[role="contentinfo"] {
-  display: none !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
