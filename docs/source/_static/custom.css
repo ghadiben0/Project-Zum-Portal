@@ -167,7 +167,17 @@ div[data-ea-publisher] {
     padding: 0 !important;
 }
 
-/* Hide the footer attribution line that mentions Read the Docs */
+/* Hide ONLY the black RTD flyout (bottom-right) */
+div.rst-versions[role="note"][aria-label="versions"] {
+  display: none !important;
+}
+ 
+/* Keep the version under the logo/title visible */
+.wy-side-nav-search .version {
+  display: block !important;
+}
+ 
+/* Hide the footer attribution “...Hosted by Read the Docs” */
 .wy-footer div[role="contentinfo"] {
   display: none !important;
 }
