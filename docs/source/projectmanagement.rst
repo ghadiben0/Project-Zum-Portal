@@ -9,7 +9,7 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. note::
     
-   The listed Projects data is added/edited by __Resource__Manager__ and Admin Roles.
+   The listed Projects data is added/edited by ***Resource Manager*** and Admin Roles.
 
    **Project Team memebers udner the Role of a Normal User has permission to Add, Edit, and Export Timesheet data .
 
