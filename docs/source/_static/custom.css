@@ -138,9 +138,31 @@ table.docutils td:nth-child(4) {
     clear: both;           /* ensures video sits below floated elements */
 }
 
-/* Force-hide ads below TOC in sphinx_rtd_theme */
-div.toctree-wrapper div.admonition.advertisement,
-div.toctree-wrapper div.related-box,
-div.toctree-wrapper div.ads-box {
+/* Hide entire EthicalAds block */
+.ethical-rtd,
+.ethical-content,
+.ethical-rtd *,
+.ethical-content * {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+/* Remove EthicalAds banner and label */
+div.ethical-rtd, 
+div[aria-label="advertisement"],
+#ad-footer,
+.ethical-sidebar,
+footer .ethical-footer,
+div[data-ea-publisher] {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
