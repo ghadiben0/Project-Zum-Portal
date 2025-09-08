@@ -138,4 +138,10 @@ table.docutils td:nth-child(4) {
     clear: both;           /* ensures video sits below floated elements */
 }
 
+/* Hide the ads box below the TOC */
+div.admonition.advertisement,
+div.ads-box {
+    display: none !important;
+}
+
 
