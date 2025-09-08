@@ -166,3 +166,8 @@ div[data-ea-publisher] {
     margin: 0 !important;
     padding: 0 !important;
 }
+
+.wy-side-nav-search .project-name,
+.version-selector .project-name {
+    display: none !important;
+}
