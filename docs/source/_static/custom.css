@@ -138,5 +138,8 @@ table.docutils td:nth-child(4) {
     clear: both;           /* ensures video sits below floated elements */
 }
 
-
-
+/* sarch in toc: Blurry advanced search */
+.sphinx-search .sphinx-overlay {
+    backdrop-filter: blur(8px);
+    background-color: rgba(0, 0, 0, 0.4);
+}
