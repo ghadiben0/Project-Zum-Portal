@@ -9,9 +9,9 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. note::
     
-   The listed Projects data is added/edited by Resource Manager and Admin users.
+   The listed **Projects** data is added/edited by **Resource Manager** and **Admin** users.
 
-   Project Team memeber udner the Role of a Normal User has permission to Add, Edit, and Export Timesheet data .
+   **Project Team** memeber udner the Role of a Normal User has permission to Add, Edit, and Export **Timesheet** data .
 
 Fields Definition
 -------------------
@@ -28,15 +28,14 @@ Fields Definition
 
 .. code-block:: console
 
-   Please take into consideration that, regardless of **Employee Role** , any **Employee** can be assigned to a **Project** as a **Project Manager** based on the position in a **Project** organization.
-
+   Please take into consideration that all Employees can be assigned to one or multiple Projects as a Project Manager.
 
 |**Customer Name:**
      The assigned **Customer** to the **Project**.
 
 .. code-block:: console
 
-   Please take into consideration that Customer can be linked to multiple Projects.
+   Please take into consideration that Customers can be linked to one or multiple Projects.
 
 |**Project Team:**
      The assigned **Employee** to the **Project** .
@@ -46,7 +45,7 @@ Fields Definition
 
 .. code-block:: console
 
-   Please take into consideration that, regardless of Employee Role, any Employee can be assigned to a Project as a Project Manager.
+   Please take into consideration that all Employees can be assigned to one or multiple Projects as a Scrum  Manager.
 
 
 |**Project Start Date:**
@@ -54,14 +53,14 @@ Fields Definition
 
 .. note::
     
-   Please note that you cannot book your **Timesheet** , regardless of the **Role** , before the start date of the **Project** .
+   Please note that you **Employees** cannot book book **Timesheet** before the start date of the **Project** .
 
 |**Project End Date:**
      The end date of the **Project** . 
 
 .. note::
     
-   Please note that you cannot book your **Timesheet** ,regardless of the Role , after the end date of the **Project**.
+   Please note that **Employees** cannot book Timesheets after the end date of the **Project**.
 
 |**Project Description:**
      The Project full name or full description.
@@ -80,6 +79,8 @@ Fields Definition
 
       A **Project** under status **Inactive** is an archived **Project**
 
+Project Fields Defitinion UI:
+___________________________________
 
 .. figure:: _static/image/gridviewproject.png
    :align: left
