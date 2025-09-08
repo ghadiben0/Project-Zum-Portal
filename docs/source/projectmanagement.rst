@@ -70,6 +70,7 @@ Fields Definition
      The files attached to the **Project** . 
 
 |**Status:**
+----------------
 
       |Active
 
