@@ -9,7 +9,7 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. note::
     
-   The listed Projects data is added/edited by ***Resource Manager*** and Admin Roles.
+   The listed Projects data is added/edited by Resource Manager and Admin users.
 
    Project Team memeber udner the Role of a Normal User has permission to Add, Edit, and Export Timesheet data .
 
@@ -24,11 +24,11 @@ Fields Definition
     The project short code linked to the **Project Name**.
 
 |**Project Manager:**
-    The assigned **Employee** to the **Project** based on his/her defined**Role** .
+    The assigned **Employee** to the **Project** .
 
 .. code-block:: console
 
-   Please take into consideration that, regardless of **Employee Role** , any **Employee** can be assigned to a **Project** as a **Project Manager**
+   Please take into consideration that, regardless of **Employee Role** , any **Employee** can be assigned to a **Project** as a **Project Manager** based on the position in a **Project** organization.
 
 
 |**Customer Name:**
@@ -70,7 +70,8 @@ Fields Definition
      The files attached to the **Project** . 
 
 |**Status:**
-      |Active:
+
+      |Active
 
       A **Project** under status **Active** is an actual **Project**
 
