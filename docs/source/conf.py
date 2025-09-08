@@ -55,7 +55,7 @@ html_context = {
 
 html_static_path = ['_static']
 html_js_files = ['custom.js']
-html_css_files = ['custom.css']
+html_css_files = ['custom.css?v=4']  # bump the number if you update CSS 
 
 # -- Hoverxref Configuration
 hoverxref_roles = ['ref', 'doc']  # or add more as needed
