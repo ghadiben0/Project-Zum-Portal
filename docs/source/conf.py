@@ -21,8 +21,10 @@ extensions = [
 
     # Third-party extensions
     'hoverxref.extension',        # Hoverxref for hover tooltips
-    'sphinxcontrib.video',       # Video embedding
-]
+    'sphinxcontrib.video',       # Video embedding*
+    'sphinx_search.extension',    # Popup search (modern Read the Docs style)
+] 
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
