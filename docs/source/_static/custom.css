@@ -167,7 +167,18 @@ div[data-ea-publisher] {
     padding: 0 !important;
 }
 
-.wy-side-nav-search .project-name,
-.version-selector .project-name {
-    display: none !important;
+/* Hide the RTD flyout (Versions / Project Home / Builds) */
+.rst-versions,
+.rst-versions.rst-badge {
+  display: none !important;
 }
+ 
+/* Hide the “Hosted by Read the Docs” / “Addons documentation” footer block */
+.footer .readthedocs,
+.wy-footer div[role="contentinfo"] a[href*="readthedocs"],
+.wy-footer .rst-footer-buttons + hr + div {
+  display: none !important;
+}
+ 
+/* Optional: hide version text near the logo/title */
+.wy-side-nav-search .version { display: none !important; }
