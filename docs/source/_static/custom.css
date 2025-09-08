@@ -167,14 +167,8 @@ div[data-ea-publisher] {
     padding: 0 !important;
 }
 
-/* Hide ONLY the black Read the Docs flyout (bottom corner) */ div.rst-versions[role="note"][aria-label="versions"],.rst-versions.rst-badge {
-  display: none !important;
-}
-/* Hide the footer attribution line (e.g., “Addons documentation — Hosted by Read the Docs”) */ .wy-footer [role="contentinfo"] {
-  display: none !important;
-}
-/* Keep the sidebar version (under the title/logo) visible */ .wy-side-nav-search .version {
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
+/* Hide the “Latest” version box and flyout */
+.wy-nav-top .version,
+.wy-side-nav-search {
+    display: none !important;
 }
