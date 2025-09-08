@@ -5,7 +5,7 @@ Use **Projects** to register and assign **Projects** to **Employees** .
 
 .. code-block:: console
 
-   Please take into consideration that Each Employee has a predefined Role and Permission with limited/unlimited CRUD actions to perform on Projects data. 
+   Please take into consideration that Each Employee has a predefined ***Role*** and Permission with limited/unlimited CRUD actions to perform on Projects data. 
 
 .. note::
     
