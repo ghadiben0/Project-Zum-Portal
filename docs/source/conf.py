@@ -44,7 +44,7 @@ html_theme_options = {
     "titles_only": False,
     "show_relbars": True, 
     "style_external_links": True,
-    "display_version": False,
+    "display_version": True,
     "show_footer": False,    # hides default "Built with Sphinx" line
  # "ads_box": False        # add this line to hide ads below TOC
 }
