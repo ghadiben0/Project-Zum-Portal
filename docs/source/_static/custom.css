@@ -167,16 +167,7 @@ div[data-ea-publisher] {
     padding: 0 !important;
 }
 
-/* Hide the RTD flyout (Versions / Project Home / Builds) */
-.rst-versions,
-.rst-versions.rst-badge {
+/* Hide the footer attribution line that mentions Read the Docs */
+.wy-footer div[role="contentinfo"] {
   display: none !important;
 }
- 
-/* Hide the “Hosted by Read the Docs” / “Addons documentation” footer block */
-.footer .readthedocs,
-.wy-footer div[role="contentinfo"] a[href*="readthedocs"],
-.wy-footer .rst-footer-buttons + hr + div {
-  display: none !important;
-}
- 
