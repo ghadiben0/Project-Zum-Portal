@@ -166,9 +166,3 @@ div[data-ea-publisher] {
     margin: 0 !important;
     padding: 0 !important;
 }
-
-/* Hide the “Latest” version box and flyout */
-.wy-nav-top .version,
-.wy-side-nav-search {
-    display: none !important;
-}
