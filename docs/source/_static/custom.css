@@ -198,25 +198,40 @@ div[data-ea-publisher] {
 }
 }
 
+/* Container matches RTD flyout items */
+.custom-downloads {
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/* Dropdown menu styling */
 .custom-downloads .wy-dropdown-content {
     display: none;
     position: absolute;
-    background-color: #2e3436; /* match RTD flyout */
+    background-color: #2e3436; /* match RTD flyout background */
     min-width: 120px;
     z-index: 1000;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
 }
 
+/* Show dropdown on hover */
 .custom-downloads:hover .wy-dropdown-content {
     display: block;
 }
 
+/* Dropdown links */
 .custom-downloads .wy-dropdown-content a {
     color: #fff;
     padding: 5px 10px;
     display: block;
     text-decoration: none;
+    font-size: 13px;
 }
 
+/* Hover effect */
 .custom-downloads .wy-dropdown-content a:hover {
     background-color: #1d1f20;
 }
+
