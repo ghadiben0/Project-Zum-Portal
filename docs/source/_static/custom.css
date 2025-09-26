@@ -187,7 +187,7 @@ div[data-ea-publisher] {
 
 /* Shrink the logo in the sidebar with fixed size */
 .wy-side-nav-search .logo img {
-    width: 60px !important;   /* fixed width */
+    width: 40px !important;   /* fixed width */
     height: 25px !important;  /* fixed height */
     padding: 2px;             /* optional spacing */
 }
