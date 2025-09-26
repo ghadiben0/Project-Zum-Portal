@@ -196,3 +196,27 @@ div[data-ea-publisher] {
     padding: 2px;                 /* optional spacing */
     display: block;               /* avoid inline flex/inline-block quirks */
 }
+}
+
+.custom-downloads .wy-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2e3436; /* match RTD flyout */
+    min-width: 120px;
+    z-index: 1000;
+}
+
+.custom-downloads:hover .wy-dropdown-content {
+    display: block;
+}
+
+.custom-downloads .wy-dropdown-content a {
+    color: #fff;
+    padding: 5px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.custom-downloads .wy-dropdown-content a:hover {
+    background-color: #1d1f20;
+}
