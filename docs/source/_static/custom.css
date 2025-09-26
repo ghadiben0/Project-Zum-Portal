@@ -166,3 +166,21 @@ div[data-ea-publisher] {
     margin: 0 !important;
     padding: 0 !important;
 }
+
+/* Sidebar header (where the logo/title lives) */
+.wy-side-nav-search {
+    background-color: #f2f2f2 !important;  /* light gray */
+}
+
+/* Optional: change the search box too, so it doesn’t look weird */
+.wy-side-nav-search input[type="text"] {
+    background-color: #fff !important;
+    border: 1px solid #ccc;
+    color: #333;
+}
+
+/* Optional: adjust text color in header */
+.wy-side-nav-search a, 
+.wy-side-nav-search .wy-side-nav-search > div.version {
+    color: #333 !important;
+}
