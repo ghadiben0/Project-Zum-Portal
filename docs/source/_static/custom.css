@@ -187,7 +187,9 @@ div[data-ea-publisher] {
 
 /* Shrink the logo in the sidebar */
 .wy-side-nav-search .logo img {
-    max-height: 29px !important;   /* adjust the number as needed */
-    width: auto !important;        /* maintain aspect ratio */
-    padding: 2px;                  /* optional, for spacing */
+    max-width: 80px !important;   /* smaller width */
+    max-height: 29px !important;  /* smaller height */
+    width: auto !important;       /* maintain aspect ratio */
+    height: auto !important;      /* maintain aspect ratio */
+    padding: 2px;                 /* optional spacing */
 }
