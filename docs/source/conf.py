@@ -63,3 +63,7 @@ hoverxref_auto_ref = True         # optional: makes regular :ref:`...` hoverable
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- company logo
+html_static_path = ["_static"]
+html_logo = "_static/my_logo.png"
