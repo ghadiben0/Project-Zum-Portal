@@ -184,3 +184,10 @@ div[data-ea-publisher] {
 .wy-side-nav-search .wy-side-nav-search > div.version {
     color: #333 !important;
 }
+
+/* Shrink the logo in the sidebar */
+.wy-side-nav-search .logo img {
+    max-height: 40px !important;   /* adjust the number as needed */
+    width: auto !important;        /* maintain aspect ratio */
+    padding: 2px;                  /* optional, for spacing */
+}
