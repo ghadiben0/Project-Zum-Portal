@@ -1,9 +1,32 @@
-Template for the Read the Docs tutorial
-=======================================
+# DocsTest
+Sphinx layout test for documentation
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+## How to use
 
-Read the tutorial here:
+### Install Sphinx
+Need Python 3.5+
 
-https://docs.readthedocs.io/en/stable/tutorial/
+```bash
+$ pip install sphinx
+```
+
+### Git clone
+```bash
+$ git clone https://github.com/sjuuun/DocsTest.git
+```
+
+### Make html
+```bash
+$ DocsTest/docs
+
+# install theme
+$ pip install sphinx-rtd-theme
+
+# make html file and open
+$ make html
+$ open build/html/index.rst
+```
+
+## Read the Docs Page
+
+https://doc-guide.readthedocs.io
