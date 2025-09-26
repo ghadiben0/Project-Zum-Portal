@@ -52,10 +52,14 @@ html_theme_options = {
 html_context = {
     "footer_text": "Your Online Documentation hub is your knowledge source to better know application functionality."
 }
-
 html_static_path = ['_static']
-html_js_files = ['custom.js', 'custom_download.js']
-html_css_files = ['custom.css?v=4']  # bump the number if you update CSS 
+
+html_js_files = [
+    'custom.js', 
+    'custom_download.js'
+]
+
+html_css_files = ['custom.css?v=4'] # bump the number if you update CSS 
 
 # -- Hoverxref Configuration
 hoverxref_roles = ['ref', 'doc']  # or add more as needed
