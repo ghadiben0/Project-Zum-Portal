@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", function() {
-    // Select the flyout menu container
-    const flyoutMenu = document.querySelector(".wy-side-nav-search"); // adjust if needed
+    // Select the top-right flyout menu container
+    const flyoutMenu = document.querySelector(".wy-side-nav-search"); // RTD top-right menu container
 
     if (flyoutMenu) {
         // Create the Download dropdown
         const downloadDiv = document.createElement("div");
         downloadDiv.className = "wy-dropdown custom-downloads";
 
-        // Add the button and dropdown links
+        // Button and dropdown links
         downloadDiv.innerHTML = `
             <button class="wy-btn wy-btn-small">Download</button>
             <ul class="wy-dropdown-content">
