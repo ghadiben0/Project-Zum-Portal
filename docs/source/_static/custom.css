@@ -184,8 +184,3 @@ div[data-ea-publisher] {
 .wy-side-nav-search .wy-side-nav-search > div.version {
     color: #333 !important;
 }
-/* Force the logo background to match header */
-.wy-side-nav-search .logo img {
-    background-color: #f2f2f2 !important;
-    padding: 4px; /* optional */
-}
