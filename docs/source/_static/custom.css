@@ -185,9 +185,14 @@ div[data-ea-publisher] {
     color: #333 !important;
 }
 
-/* Shrink the logo in the sidebar with fixed size */
+/* Shrink the logo in the sidebar with fixed size, override theme */
 .wy-side-nav-search .logo img {
-    width: 40px !important;   /* fixed width */
-    height: 25px !important;  /* fixed height */
-    padding: 2px;             /* optional spacing */
+    width: 40px !important;       /* fixed width */
+    height: 25px !important;      /* fixed height */
+    max-width: 40px !important;
+    max-height: 25px !important;
+    min-width: 40px !important;
+    min-height: 25px !important;
+    padding: 2px;                 /* optional spacing */
+    display: block;               /* avoid inline flex/inline-block quirks */
 }
