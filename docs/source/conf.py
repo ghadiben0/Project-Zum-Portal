@@ -75,3 +75,5 @@ html_logo = "_static/my_logo.png"
 html_css_files = [
     "custom.css",
 ]
+
+html_js_files = ['logo_link.js']
