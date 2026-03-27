@@ -77,3 +77,11 @@ html_css_files = [
 ]
 
 html_js_files = ['logo_link.js']
+
+html_theme_options = {
+    "display_version": False,
+}
+
+html_context = {
+    "display_lower_left": False,
+}
