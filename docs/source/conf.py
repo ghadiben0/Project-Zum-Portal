@@ -78,10 +78,12 @@ html_css_files = [
 
 html_js_files = ['logo_link.js']
 
-html_theme_options = {
-    "display_version": False,
-}
+# conf.py
 
+# Disable the version info in the HTML theme
+html_show_sourcelink = False   # optional, hides "View page source"
+html_show_sphinx = False       # hides the "Built with Sphinx" footer info
 html_context = {
-    "display_lower_left": False,
+    'display_github': False,   # optional, if using github integration
+    'current_version': 'latest',  # forces the version dropdown to only show one version
 }
