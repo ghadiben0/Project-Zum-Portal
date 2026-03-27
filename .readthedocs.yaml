@@ -10,7 +10,7 @@
 #     - requirements: docs/requirements.txt
 
 # sphinx:
-  configuration: docs/source/conf.py
+  # configuration: docs/source/conf.py
 
 version: "2"
 
@@ -22,14 +22,12 @@ build:
 python:
   install:
     - requirements: docs/requirements.txt
-    
+
 sphinx:
   configuration: docs/source/conf.py
 
 versions:
   only:
     - stable
-
-html:
-  theme_options:
+  default: stable
     version_selector: false
