@@ -9,4 +9,5 @@ Advanced Topics
    employeemanagement   
    customermanagement   
    timesheetmanagement   
-   projectmanagement   
+   projectmanagement  
+   resourcemanagement
