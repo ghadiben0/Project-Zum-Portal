@@ -1,3 +1,4 @@
+
 Resource Planning 
 ===================================
 
@@ -60,4 +61,42 @@ The Actual Percentage value is the Number of Billable and Non-Billable forecaste
 
    *Variance%*
 _________
+
+Average Actual% of total Actual% values- Average Forecast% of total Forecast% values
+
+   *Average*
+-----
+The sum of total Forecast% or Actual% values/Number of Weeks of the selected Month
+
+   
+*Monthly View**
+============
+
+   *Month*
+_________
+   The listed Months for the selected Year
+
+*Forecast%*
+__________
+
+The Forecast% value based on the Weekly View Forecast% value
+
+*Actual%*
+__________
+
+The Actual% value based on the Weekly View Actuam% value
+
+   *Variance%*
+_________
+
+Yearly Average Actual% of total Actual% values- Average Forecast% of total Forecast% values
+
+
+   *Yearly Average*
+____________
+   The Forecast Percentage value is the sum of total Forecast% Values/ Number of listed Months
+
+
+*Yearly View**
+============
 
