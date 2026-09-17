@@ -31,3 +31,33 @@ __________
 Allocation%  is based on this formula:
          Forecasted Billable Hours+Non-Billable Hours/Normal Hours for the allocated Month*100
 
+
+
+**Allocation Insights**
+_____________________________________
+
+**Weekly View**
+============
+
+   *Week*
+_________
+   The Days range of the week for the selected Month
+
+   *Forecast%*
+____________
+The Forecast Percentage value is the Number of Billable and Non-Billable forecasted working hours/Number of hours of that week
+
+.. code-block:: console
+
+   Please take into consideration multiple projects allocation calculation is as follow: Number of Billable and Non-Billable Hours for Project (X)+ Number of Billable and Non-Billable Hours for Project (Y)/Weekly Normal Hours of that Week equals the Forecast Percentage Value
+
+
+*Actual%*
+__________
+
+The Actual Percentage value is the Number of Billable and Non-Billable forecasted working hours/Number of hours of that week
+
+
+   *Variance%*
+_________
+
