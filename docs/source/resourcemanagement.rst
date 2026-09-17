@@ -79,12 +79,12 @@ _________
 *Forecast%*
 __________
 
-The Forecast% value based on the Weekly View Forecast% value
+The Forecast% value based on the total Forecast Allocation% in **Forecast Allocation** screen
 
 *Actual%*
 __________
 
-The Actual% value based on the Weekly View Actuam% value
+The Actual% value based on the Utilization% in **Real-Time Allocation** screen
 
    *Variance%*
 _________
